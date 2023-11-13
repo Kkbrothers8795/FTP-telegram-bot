@@ -1,3 +1,4 @@
 Pyrogram==2.0.97
 aioftp==0.21.4
 asyncio==3.4.3
+tgcrypto
