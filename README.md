@@ -1,5 +1,4 @@
-# FTP-telegram-bot
-(https://tx.me/FilesxDriveBot)
+# [FTP-telegram-bot](https://tx.me/FilesxDriveBot)
 [![GitHub forks](https://img.shields.io/github/forks/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/FTP-TG-BOT/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/oVo-HxBots/FTP-TG-BOT?&style=flat-square&logo=github)
 [![GitHub stars](https://img.shields.io/github/stars/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/FTP-TG-BOT/stargazers)
