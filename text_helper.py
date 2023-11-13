@@ -1,16 +1,16 @@
 
 
 start_text = '''
-Hello, this is an FTP management bot
-To start, send your file to the robot
-this robot maded by : Ali Azizi
-https://github.com/aliazizi0906
+Hello, this is an FileDrive Bot
+To start, send your file to me
+this robot maded by : @HxBots
+https://github.com/oVo-HxBots
 '''
 
 file_name_error = '''
 ⚠️ Unfortunately, an error occurred while processing the file name.
-this robot maded by : Ali Azizi
-https://github.com/aliazizi0906
+this robot maded by : @HxBots
+https://github.com/oVo-HxBots
 '''
 
 dl_text = '📥 Downloading from Telegram servers...'
@@ -22,10 +22,10 @@ dl_error_text = 'Error when downloading a file from Telegram❌'
 dl_url_text = '''
 The upload to the host was done successfully✅
 
-🔅 File download link: 
+🔅 Permanent File Download Link: 
 🔗 {}{}
 .
 
-this robot maded by : Ali Azizi
-https://github.com/aliazizi0906
+this robot maded by : @Kirodewal
+https://t.me/HxBots
 '''
