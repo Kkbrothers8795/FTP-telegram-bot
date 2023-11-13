@@ -1,4 +1,9 @@
 # FTP-telegram-bot
+(https://tx.me/FilesxDriveBot)
+[![GitHub forks](https://img.shields.io/github/forks/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/FTP-TG-BOT/fork)
+![Repo Size](https://img.shields.io/github/repo-size/oVo-HxBots/FTP-TG-BOT?&style=flat-square&logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/FTP-TG-BOT/stargazers)
+
 A Telegram bot project by Python to upload files from Telegram to the server using FTP protocol.
 
 I can say that this robot is a file-to-link conversion telegram robot
